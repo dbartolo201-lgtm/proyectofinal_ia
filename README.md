@@ -26,7 +26,7 @@ El sistema está diseñado para gerentes de logística y conductores de reparto.
 3. El conductor recibe la ruta en una app móvil y la sigue.
 
 Aquí una imagen de cómo se vería el panel de control:
-![Panel de control](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logistics_software_dashboard.jpg/640px-Logistics_software_dashboard.jpg)
+![Panel de control](canva-concept-de-travailleur-d-automatisation.png)
 
 Ejemplo de código para calcular la distancia total de una ruta:
 
