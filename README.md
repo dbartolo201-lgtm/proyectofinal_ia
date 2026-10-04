@@ -1,7 +1,7 @@
 # proyectofinal_ia
 proyecto final curso ia 
 
-# EcoRuta AI - Optimización de rutas sostenibles
+# Mi Proyecto de IA para 
 
 Proyecto final para el curso Building AI
 
