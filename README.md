@@ -7,6 +7,9 @@ Proyecto final para el curso Building AI
 
 ## Resumen
 
+
+Este proyecto consiste en el desarrollo de una aplicación de Inteligencia Artificial que permite resolver un problema mediante el procesamiento y análisis de información. El proyecto tiene como propósito aplicar conceptos y técnicas de Inteligencia Artificial para desarrollar una solución funcional, demostrando el uso de herramientas y conocimientos adquiridos durante el curso.
+
 EcoRuta AI es un sistema de inteligencia artificial que analiza el tráfico en tiempo real, el clima y el peso de la carga para calcular la ruta de reparto más eficiente. El objetivo es reducir el consumo de combustible de las flotas de transporte en un 15%, disminuyendo así las emisiones de CO2.
 
 ## Antecedentes
