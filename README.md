@@ -43,3 +43,6 @@ def calcular_distancia_total(ruta):
 # Ejemplo de uso
 ruta_optima = [(40.7128, -74.0060), (40.7306, -73.9352), (40.7580, -73.9855)]
 print(f"Distancia total: {calcular_distancia_total(ruta_optima)} km")
+
+
+
