@@ -1,4 +1,4 @@
-# proyectofinal_ia
+
 Proyecto final curso ia
 
 # Traductor Asistido por IA para Zapoteco (Diidxazá) - Español
