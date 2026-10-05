@@ -33,18 +33,6 @@ El sistema está diseñado para gerentes de logística y conductores de reparto.
 Aquí una imagen de cómo se vería el panel de control:
 ![Panel de control](panel.png)
 
-Ejemplo de código para calcular la distancia total de una ruta:
-
-```python
-def calcular_distancia_total(ruta):
-    distancia = 0
-    for i in range(len(ruta) - 1):
-        distancia += distancia_entre_puntos(ruta[i], ruta[i+1])
-    return distancia
-
-# Ejemplo de uso
-ruta_optima = [(40.7128, -74.0060), (40.7306, -73.9352), (40.7580, -73.9855)]
-print(f"Distancia total: {calcular_distancia_total(ruta_optima)} km")
 
 
 
