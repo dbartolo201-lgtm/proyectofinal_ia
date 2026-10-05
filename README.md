@@ -1,35 +1,35 @@
 # proyectofinal_ia
-proyecto final curso ia 
+Proyecto final curso ia
 
-# Mi Proyecto de IA para 
+# Traductor Asistido por IA para Zapoteco (Diidxazá) - Español
 
-Proyecto final para el curso Building AI
+Proyecto final para el curso Building AI.
 
 ## Resumen
 
-EcoRuta AI es un sistema de inteligencia artificial diseñado para analizar diferentes factores relacionados con las rutas de transporte y ayudar a seleccionar la ruta más eficiente. El proyecto busca reducir el consumo de combustible y las emisiones de CO2 mediante el uso de inteligencia artificial.
-
-
-Este proyecto consiste en el desarrollo de una aplicación de Inteligencia Artificial que permite resolver un problema mediante el procesamiento y análisis de información. El proyecto tiene como propósito aplicar conceptos y técnicas de Inteligencia Artificial para desarrollar una solución funcional, demostrando el uso de herramientas y conocimientos adquiridos durante el curso.
-
-EcoRuta AI es un sistema de inteligencia artificial que analiza el tráfico en tiempo real, el clima y el peso de la carga para calcular la ruta de reparto más eficiente. El objetivo es reducir el consumo de combustible de las flotas de transporte en un 15%, disminuyendo así las emisiones de CO2.
+Este proyecto plantea el diseño de un asistente de traducción automática para textos, historias tradicionales y frases del Zapoteco (Diidxazá) al español. Utilizando conceptos de Procesamiento de Lenguaje Natural (NLP), el objetivo es facilitar la comunicación, ayudar en la educación y preservar la cultura integrando este modelo en una futura aplicación móvil o web.
 
 ## Antecedentes
 
-El problema que resuelve es la ineficiencia logística en las ciudades. Actualmente, muchos camiones de reparto recorren rutas que no están optimizadas, lo que genera:
-* Mayor gasto en combustible y mantenimiento.
-* Retrasos en las entregas debido a atascos imprevistos.
-* Aumento innecesario de la contaminación urbana.
+Actualmente, existen muy pocas herramientas tecnológicas y modelos de Inteligencia Artificial enfocados en lenguas originarias. 
+* El problema que resuelve es la barrera del idioma y la falta de preservación digital de textos tradicionales.
+* La solución busca aplicar herramientas de IA para crear un puente de comunicación accesible.
 
-Mi motivación personal surge al ver cómo el tráfico de reparto en mi ciudad ha aumentado drásticamente, y creo que la IA puede ser una herramienta clave para hacerlo más sostenible.
+## Cómo se usa
 
-## ¿Cómo se usa?
+El sistema está pensado para funcionar a través de una interfaz sencilla (como una aplicación móvil). El usuario ingresaría un texto, como un trabalenguas o una historia local en Zapoteco, y el sistema devolvería la traducción al español. Sería útil para estudiantes, investigadores y miembros de la comunidad.
 
-El sistema está diseñado para gerentes de logística y conductores de reparto. El flujo es el siguiente:
-1. El gerente sube la lista de entregas del día a la plataforma web.
-2. La IA procesa los datos y genera la ruta óptima para cada vehículo.
-3. El conductor recibe la ruta en una app móvil y la sigue.
+## Datos y fuentes
 
+Para que la IA funcione, el modelo necesitaría ser alimentado (entrenado) con pares de textos bilingües, diccionarios locales y recopilaciones de tradiciones orales traducidas previamente por expertos.
+
+## Desafíos
+
+El principal desafío es la escasez de datos digitales estructurados en esta lengua en comparación con idiomas como el inglés o el español, además de las variaciones dialécticas de cada región.
+
+## Próximos pasos
+
+A futuro, el proyecto podría integrarse con tecnologías de desarrollo móvil (como React Native o Expo) para crear una aplicación funcional que incluya reconocimiento de voz.
 Aquí una imagen de cómo se vería el panel de control:
 ![Panel de control](panel.png)
 
