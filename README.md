@@ -1,7 +1,7 @@
 
 # EcoRuta AI
 
-## Summary
+## Resumen
 
 EcoRuta AI is an artificial intelligence project designed to help select efficient transportation routes. The system considers factors such as traffic, weather conditions, and cargo weight to recommend an efficient route. The main objective is to reduce fuel consumption and CO2 emissions.
 
