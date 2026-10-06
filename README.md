@@ -1,34 +1,30 @@
-
-Proyecto final curso ia
-
-# Traductor Asistido por IA para Zapoteco (Diidxazá) - Español
-
-Proyecto final para el curso Building AI.
-
-![Diagrama del Proyecto](zapotec_ai_translator.png)
+# EcoRuta AI
 
 ## Resumen
 
-Este proyecto plantea el diseño de un asistente de traducción automática para textos, historias tradicionales y frases del Zapoteco (Diidxazá) al español[cite: 3]. Utilizando conceptos de Procesamiento de Lenguaje Natural (NLP), el objetivo es facilitar la comunicación, ayudar en la educación y preservar la cultura integrando este modelo en una futura aplicación móvil o web.
+EcoRuta AI es un sistema de inteligencia artificial diseñado para ayudar a seleccionar rutas de transporte más eficientes. El sistema considera factores como el tráfico, las condiciones climáticas y el peso de la carga para determinar una ruta adecuada. Su objetivo es reducir el consumo de combustible y las emisiones de CO2, contribuyendo a mejorar la eficiencia del transporte.
 
-## Antecedentes
+## Problema
 
-Actualmente, existen muy pocas herramientas tecnológicas y modelos de Inteligencia Artificial enfocados en lenguas originarias.
-* El problema que resuelve es la barrera del idioma y la falta de preservación digital de textos tradicionales.
-* La solución busca aplicar herramientas de IA para crear un puente de comunicación accesible.
+Las empresas de transporte pueden enfrentar dificultades para seleccionar rutas eficientes debido a cambios en el tráfico, el clima y las características de la carga. Estas situaciones pueden provocar un mayor consumo de combustible, tiempos de traslado más largos y un incremento en las emisiones contaminantes.
 
-## Cómo se usa
+## Solución
 
-El sistema está pensado para funcionar a través de una interfaz sencilla. El usuario ingresaría un texto, como un trabalenguas o una historia local en Zapoteco, y el sistema devolvería la traducción al español. Sería útil para estudiantes, investigadores y miembros de la comunidad.
+EcoRuta AI propone utilizar inteligencia artificial para analizar diferentes factores y recomendar una ruta de transporte eficiente. De esta manera, se busca apoyar la toma de decisiones y optimizar los recorridos.
 
-## Datos y fuentes
+## Tecnologías utilizadas
 
-Para que la IA funcione, el modelo necesitaría ser alimentado (entrenado) con pares de textos bilingües, diccionarios locales y recopilaciones de tradiciones orales traducidas previamente por expertos.
+* Python
+* Inteligencia Artificial
+* Análisis de datos
+* GitHub
 
-## Desafíos
+## Objetivo
 
-El principal desafío es la escasez de datos digitales estructurados en esta lengua en comparación con idiomas como el inglés o el español, además de las variaciones dialécticas de cada región.
+Desarrollar una solución basada en inteligencia artificial que permita seleccionar rutas eficientes para reducir el consumo de combustible y las emisiones de CO2.
 
-## Próximos pasos
+## Conclusión
 
-A futuro, el proyecto podría integrarse con tecnologías de desarrollo móvil (como React Native o Expo) para crear una aplicación funcional que incluya reconocimiento de voz.
+EcoRuta AI demuestra cómo la inteligencia artificial puede utilizarse para resolver problemas relacionados con el transporte y contribuir a una utilización más eficiente de los recursos.
+
+
